@@ -1,0 +1,15 @@
+ABOUT THE PROJECT:
+
+This C program is a versatile number system conversion tool, 
+designed to handle conversions between decimal, binary, octal, and hexadecimal formats. 
+It features a menu-driven interface, allowing users to perform six different conversions: 
+
+1. Decimal to Binary
+2. Binary to Decimal
+3. Decimal to Octal
+4.  Octal to Decimal
+5. Hexadecimal to Binary
+6. Binary to Hexadecimal
+
+ The program employs dynamic memory allocation, bitwise operations, and string manipulations to ensure accurate and efficient conversions. It includes error-checking mechanisms and custom utilities like string reversal. This project is ideal for understanding number systems, memory management, and bit-level operations, making it a valuable learning resource in C programming.
+

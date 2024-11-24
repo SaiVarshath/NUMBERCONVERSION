@@ -1,0 +1,60 @@
+OUTPUT:
+Below is an example of how the program behaves for each menu option, along with sample inputs and outputs:
+
+Menu:
+1. Decimal to Binary
+2. Binary to Decimal
+3. Decimal to Octal
+4. Octal to Decimal
+5. Hexadecimal to Binary
+6. Binary to Hexadecimal
+7. Exit
+
+Enter your choice:
+1. Decimal to Binary
+Input:	
+Enter a decimal number: 25
+Output:
+Decimal to Binary: 11001
+
+2. Binary to Decimal
+Input:
+Enter a binary number: 11001
+Output:
+Binary to Decimal: 25
+
+3. Decimal to Octal
+Input:
+Enter a decimal number: 25
+Output:
+Decimal to Octal: 31
+
+4. Octal to Decimal
+Input:
+Enter an octal number: 31
+Output:
+Octal to Decimal: 25
+
+5. Hexadecimal to Binary
+Input:
+Enter a hexadecimal number: 1F
+Output:
+Hexadecimal to Binary: 11111
+
+6. Binary to Hexadecimal
+Input:
+Enter a binary number: 11111
+Output:
+Binary to Hexadecimal: 1F
+
+7. Exit
+Input:
+Enter your choice: 7
+Output:
+Goodbye!
+
+
+
+
+
+
